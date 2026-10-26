@@ -5,7 +5,7 @@ Welcome to my GitHub repository! I'm Roshan Waghmare, a passionate Cloud Support
 
 ## About Me ℹ️
 
-I'm a Cloud/DevOps enthusiast with a deep enthusiasm for AWS Cloud, Terraform, and Ansible. With over 2 years of experience in the industry, I've honed my skills in Kubernetes, Docker, Jenkins, Terraform, Ansible, and Linux. I'm dedicated to continuously learning and staying updated with the latest trends and advancements in technology.
+I'm a Cloud/DevOps enthusiast with a deep enthusiasm for AWS Cloud, Terraform, and Ansible., I've honed my skills in Kubernetes, Docker, Jenkins, Terraform, Ansible, and Linux. I'm dedicated to continuously learning and staying updated with the latest trends and advancements in technology.
 
 ## What You'll Find Here 📁
 
